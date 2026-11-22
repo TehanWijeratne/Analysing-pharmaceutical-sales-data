@@ -4,7 +4,7 @@
 A Python data analysis of six years of daily pharmacy sales, exploring which drug categories sell the most and whether respiratory drug sales (R03) follow a seasonal pattern.
 
 **Author:** Tehan Wijeratne
-**Original project and dataset:** https://www.kaggle.com/datasets/milanzdravkovic/pharma-sales-data
+**Original project and dataset:** [https://www.kaggle.com/datasets/milanzdravkovic/pharma-sales-data](https://roadmap.sh/projects/pharmaceutical-sales-data)
 
 ![R03 average daily sales by month](visualisations/q6_r03_seasonal_bars.png)
 
