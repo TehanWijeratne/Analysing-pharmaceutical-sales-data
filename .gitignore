@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+
+# Dataset: not redistributed, see README for download instructions
+data/*.csv
+
+# Jupyter and Python clutter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Operating system files
+Thumbs.db
+.DS_Store
